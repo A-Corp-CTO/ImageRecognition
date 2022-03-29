@@ -1,0 +1,18 @@
+{
+    "image": "ISIC_0014712",
+    "segments": 150,
+    "disk_size": 3,
+    "slic_sigma": 2,
+    "compactness": 0.1,
+    "cut_off": 0.6,
+    "x_dim": 6621,
+    "y_dim": 4422,
+    "pic_area": 29278062,
+    "false_pos": 1941675,
+    "false_neg": 15602517,
+    "area": 1941675,
+    "true_mask_area": 24292916,
+    "common_area": 8690399,
+    "area_diff": 17544192,
+    "attribute_set": 157
+}

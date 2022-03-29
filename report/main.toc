@@ -5,3 +5,5 @@
 \contentsline {section}{\numberline {4}Discussion}{3}{}%
 \contentsline {section}{\numberline {5}Limitations}{3}{}%
 \contentsline {section}{\numberline {6}Concluding Remarks}{3}{}%
+\contentsline {section}{References}{4}{}%
+\contentsline {section}{\numberline {A}Variables}{5}{}%

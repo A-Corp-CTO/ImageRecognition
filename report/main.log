@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.12.15)  22 MAR 2022 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.12.15)  29 MAR 2022 12:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.tex
-(/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.tex
+**/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.tex
+(/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -403,7 +403,7 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.aux)
+) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -530,28 +530,30 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.43999pt on input line 80.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2] (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/intro.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/data.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/results.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/discussion.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/limitations.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/concluding.tex) [3]
-No file main.bbl.
-(/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/sections/appendices.tex) 
+ [2] (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/intro.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/data.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/results.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/discussion.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/limitations.tex) (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/concluding.tex) [3] (/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+) [4] (/home/kofod/Desktop/fyp2022-proj2groupN2/report/sections/appendices.tex (/home/kofod/Desktop/fyp2022-proj2groupN2/report/appendices/variables.tex)) 
 AED: lastpage setting LastPage
-(/home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.aux) ) 
+[5] (/home/kofod/Desktop/fyp2022-proj2groupN2/report/main.aux) ) 
 Here is how much of TeX's memory you used:
- 8372 strings out of 479304
- 134777 string characters out of 5869778
+ 8380 strings out of 479304
+ 135110 string characters out of 5869778
  631887 words of memory out of 5000000
- 25264 multiletter control sequences out of 15000+600000
+ 25265 multiletter control sequences out of 15000+600000
  484539 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,10n,88p,351b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,10n,88p,350b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on /home/kofod/Desktop/fyp2022-proj2groupN2/Reports/main.pdf (3 pages, 35160 bytes).
+Output written on /home/kofod/Desktop/fyp2022-proj2groupN2/report/main.pdf (5 pages, 36696 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  63489 words of extra memory for PDF output out of 74296 (max. 10000000)
 
