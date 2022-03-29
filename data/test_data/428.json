@@ -1,1 +1,1 @@
-{"segments": 10, "disk_size": 2, "slic_sigma": 7, "compactness": 1000000.0, "cut_off": 0.7, "attribute_set": 428}
+{"segments": 400, "disk_size": 1, "slic_sigma": 2, "compactness": 1, "cut_off": 0.6, "attribute_set": 428}
