@@ -33,7 +33,7 @@ for i in attr:
     attribute_set += 1
 
 
-def find_images(path, number, seed): 
+def find_images(path, number, seed,): 
     im_list = os.walk(path)
     im_list = [i for i in im_list][0][2]
     random.seed(seed)

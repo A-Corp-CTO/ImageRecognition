@@ -52,3 +52,5 @@ def create_mask(im, segments, disk_size, slic_sigma, slic_compactness,cut_off):
             tmp_array[k[0],k[1]] = 1
     
     return tmp_array 
+
+    
