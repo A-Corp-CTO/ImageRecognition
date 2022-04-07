@@ -1,0 +1,291 @@
+commit e8f6438482f710b777df7a92c83cd1f0b02d98df
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Apr 7 08:36:56 2022 +0200
+
+    Added Age and Sex data to the analysis
+
+commit 5e46d240095b06aa1295578a631463fc8c31601c
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Thu Apr 7 06:25:03 2022 +0200
+
+    Minor commit
+
+commit 54059ca6affed9984895beff819d5bf203526a50
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Wed Apr 6 02:23:39 2022 +0200
+
+    Minor commit
+
+commit 669f08f76c2ec1682413cf5dba1162e3ed40b91b
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 20:04:28 2022 +0200
+
+    Minor commit
+
+commit fc47cc9d05cf78a8cbef56cc1301a5c3d7c8a738
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 19:36:04 2022 +0200
+
+    Minor commit
+
+commit c7e92b086ff60d5e4d4f876dafaee0b8a1024fb0
+Author: Francisco Antonio Vilhena Pires de Melo Parente <frvi@itu.dk>
+Date:   Tue Apr 5 15:07:56 2022 +0200
+
+    Evaluating Features
+
+commit 530474b527a22cef96547c4593547a83248ff9a3
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 14:53:26 2022 +0200
+
+    Minor commit
+
+commit 436c3b7e32e65efffc196a2b097668817b6c91ea
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 14:14:29 2022 +0200
+
+    Computed features - again
+
+commit cc5ac17fc786c49ff144729230ee5b0e0a7949a1
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 13:03:14 2022 +0200
+
+    Commented the feature extraction
+
+commit f58370645315e1777ff154372dc24e97fbb8055e
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Apr 5 12:17:18 2022 +0200
+
+    Computed all features
+
+commit 3fc2b135cec53428294e40eff22507a02d3e41e2
+Author: Raquel Moleiro Marques <raqm@itu.dk>
+Date:   Mon Apr 4 13:40:42 2022 +0200
+
+    Update describing_images.csv
+
+commit 54103ee5acf8d59b1e7093c2fded895b52c7f3b6
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Sun Apr 3 18:58:39 2022 +0200
+
+    Minor commit
+
+commit 943c35cd6ccc4c14112cd02e67d8ee986c397450
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Sun Apr 3 18:07:35 2022 +0200
+
+    Preprocessing and Feature extraction mostly finished
+
+commit 28fd837b6fcba1d6cefd7dbfdd726d587c1b1e1d
+Author: Francisco Antonio Vilhena Pires de Melo Parente <frvi@itu.dk>
+Date:   Fri Apr 1 13:23:14 2022 +0200
+
+    Border and Assymetry Features
+
+commit b3f71edf0cc0f1bec3f09768ad64ce8f059819cd
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 31 14:06:34 2022 +0200
+
+    Cleaning up the repository after finding out we didn't need to create masks
+
+commit 094a10f60d6a5023d08600af9e2f8bf93efca64d
+Merge: 90fb9a147 1db519fcd
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 31 14:00:04 2022 +0200
+
+    Merge branch 'main' of https://github.itu.dk/nkof/fyp2022-proj2groupN2
+
+commit 90fb9a14750cff0313838767a35049556597cbdc
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 31 13:59:44 2022 +0200
+
+    Minor commit
+
+commit 1db519fcdfd7b0f18774e184f1471779da546a28
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Thu Mar 31 13:58:14 2022 +0200
+
+    Add files via upload
+
+commit ce17bb73198dd25805cdbf03018f274a8e63768d
+Merge: 2d0bb9c46 9b7b9c11a
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 31 13:52:08 2022 +0200
+
+    Merge branch 'main' of https://github.itu.dk/nkof/fyp2022-proj2groupN2
+
+commit 2d0bb9c4667f5da96f719968d41b9b88ee015db8
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 31 13:51:47 2022 +0200
+
+    Minor commit
+
+commit 9b7b9c11a94031d52ad5de10c13ebcd1ba760034
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Thu Mar 31 13:25:24 2022 +0200
+
+    Update describing_images.csv
+
+commit 160bfe8c606828e2e1349451df3bb7072b24d6f0
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Thu Mar 31 13:16:15 2022 +0200
+
+    Update describing_images.csv
+
+commit 5073a9820a7d7c6fe59ccd103fea1f892a74c49f
+Author: Raquel Moleiro Marques <raqm@itu.dk>
+Date:   Thu Mar 31 13:15:57 2022 +0200
+
+    Update describing_images.csv
+
+commit 8235e8427913dd2c69716815e7fd8f4bed16fad6
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Thu Mar 31 13:07:36 2022 +0200
+
+    Update describing_images.csv
+
+commit 81ff5da3d71add1fd3587b81d09ad229e208e30b
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Thu Mar 31 13:06:51 2022 +0200
+
+    Update describing_images.csv
+
+commit 4715bf321281ecf1c33514664d691cbf918c8436
+Author: Raquel Marques <raqm@itu.dk>
+Date:   Tue Mar 29 13:32:27 2022 +0200
+
+    CSV file task 1
+
+commit 6c3520da55b23bf38adc1074eb258fbdb11f813e
+Author: Raquel Marques <raqm@itu.dk>
+Date:   Tue Mar 29 13:23:36 2022 +0200
+
+    Added images to describe
+
+commit 23c8586c28b94d3fa6f6cb82c2cb5a720f3cab94
+Merge: 91c6ba2e7 339c94633
+Author: Raquel Marques <raqm@itu.dk>
+Date:   Tue Mar 29 12:31:23 2022 +0200
+
+    Merge branch 'main' of https://github.itu.dk/nkof/fyp2022-proj2groupN2
+
+commit 91c6ba2e791a143ffe5926648123449caed29d79
+Author: Raquel Marques <raqm@itu.dk>
+Date:   Tue Mar 29 12:30:36 2022 +0200
+
+    Added selected images in data file
+
+commit 339c946331e13d2263175f9a7659c723a497a9fe
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 29 12:26:03 2022 +0200
+
+    Minor commit
+
+commit 679583efe425c1293a239d74cb95407d72ad871f
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 29 10:52:41 2022 +0200
+
+    Minor update
+
+commit 9e360c8f490c147083adc8742a466579e947cd44
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Tue Mar 29 08:52:07 2022 +0200
+
+    Minor commit
+
+commit 925be856d265b5a7216cf38332345565b2a3468b
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Tue Mar 29 08:39:48 2022 +0200
+
+    Minor commit
+
+commit a707ac3e1ffa972fcb540d108a9b5bd29f14bade
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Tue Mar 29 08:29:04 2022 +0200
+
+    Ran tests
+
+commit 6fe6f6e7b4b596829db0e110130349f6dfb876a7
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Fri Mar 25 07:31:32 2022 +0100
+
+    Ready to run tests
+
+commit b7bb780d1e69c59a43116e103a9abca84e60680a
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Fri Mar 25 07:23:14 2022 +0100
+
+    Added test_data attributes
+
+commit 8347fcfc5672bad383de2ef5eb8a43351b49b022
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Fri Mar 25 06:45:42 2022 +0100
+
+    Finally got the mask working
+
+commit 789cf967b21e30cf448bc8c26fce35c653d5a557
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Thu Mar 24 10:15:48 2022 +0100
+
+    Small update
+
+commit e19aa92fee7035ad535b2e7f1f6154caadcb951a
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Wed Mar 23 06:30:19 2022 +0100
+
+    Small changes
+
+commit 623b25583dfb085714221190c1e006976ad057be
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Wed Mar 23 03:31:48 2022 +0100
+
+    Splitting images into groups work
+
+commit df637cf7af3ffe784d783ac859782f937c4d9c67
+Merge: ad060015b a3cd07966
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 13:10:09 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/nkof/fyp2022-proj2groupN2
+
+commit ad060015b8f34ce71e34ae64112c5047a08a8167
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 13:09:35 2022 +0100
+
+    Working on mask creation
+
+commit a3cd079660992e555adcbaf4c739f7a3a9bfe493
+Author: Mathis Valentin Gravil <mvgr@itu.dk>
+Date:   Tue Mar 22 12:49:21 2022 +0100
+
+    Add files via upload
+
+commit 43a477e67abef17b882f96423d5ffe2f7d5076b0
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 12:17:22 2022 +0100
+
+    Added notebooks
+
+commit cf82e1b6e477ed8c000ae19b5a69cc19bd86fad8
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 11:22:16 2022 +0100
+
+    Added a few papers
+
+commit 795636021612b167131a995d6bb940c169405842
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 10:33:35 2022 +0100
+
+    Added report template
+
+commit f94043cea7d2376897836a52f8f6036020d89290
+Author: Nicolai Kofod <nkof@itu.dk>
+Date:   Tue Mar 22 09:11:25 2022 +0100
+
+    Initial commit
+
+commit a54467e5005a93e7419ac89d7e0b30d6900ad805
+Author: Nicolai Jacob Kofod-Jensen <nkof@itu.dk>
+Date:   Tue Mar 22 09:03:23 2022 +0100
+
+    Initial commit
